@@ -12,7 +12,7 @@
 
 ### 🌟 Top Insights
 1. **Strong Seasonality**  
-   ![Seasonal Pattern](https://via.placeholder.com/400x200?text=Q4+Revenue+Spikes)  
+   ![Seasonal Pattern](Screenshot.png)  
    Consistent 15-20% higher revenue in Q4 (holiday season)
 
 2. **Log Transformation Success**  
